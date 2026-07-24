@@ -28,7 +28,7 @@
 | Project | Reason |
 |---|---|
 | **HSHO-PrivateServer** | Planning an overhaul with better optimization & a language change (this codebase was rewritten by AI using HSHO-PS as the base plus my own code) |
-| **HSHO-PS** | Old successor of *HSHO-PrivateServer*—irrelevant code, pure AI slop |
+| **HSHO-PS** | predecessor of *HSHO-PrivateServer*—irrelevant code, pure AI slop |
 | **Kaiwaii4ever-Luau-Assets** | Outdated and redundant code that serves no real purpose anymore within the Roblox scripting community (up to v1.6) |
 
 ## Upcoming Projects
