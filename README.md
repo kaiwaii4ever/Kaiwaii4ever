@@ -1,11 +1,10 @@
 <h1 align="left">Well, Hello. Name's Kaiwaii4ever (Kai)</h1>
-<h3 align="left">Game Developer • Video Editor</h3>
 
 <br>
 
 ## About Me
 
-Typical game developer and video editor.
+***Typical game developer and video editor***
 
 ## I'm Currently Learning About
 
@@ -23,8 +22,6 @@ Typical game developer and video editor.
 
 [![Discord](https://img.shields.io/badge/-cravesforpizza-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
 [![Email](https://img.shields.io/badge/-Kaiwaii4ever.koficommission%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Kaiwaii4ever.koficommission@gmail.com)
-
-<br>
 
 ## Privated / Archived Projects + Reasons
 
