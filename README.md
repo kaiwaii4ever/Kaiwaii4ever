@@ -34,4 +34,4 @@
 
 | Project | Reason |
 |---|---|
-| **Matchly** | A strictly typed Luau matchmaking module for *Roblox*, designed to support customizable matchmaking conditions, local and global matchmaking, and custom analytics logging.
+| **Matchly** | A strictly typed Luau matchmaking module for *Roblox*, designed to support customizable matchmaking conditions, local and global matchmaking, and custom analytics logging. (Might be delayed, for a long time •_•)
